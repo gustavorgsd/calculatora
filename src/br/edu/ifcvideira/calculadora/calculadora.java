@@ -14,4 +14,8 @@ public class calculadora {
 		return num1 / num2;
 	}
 
+	public int mult(int num1, int num2){
+		return num1 * num2;
+	}
+	
 }
